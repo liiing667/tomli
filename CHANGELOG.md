@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Added
+  - `dumps()` and `dump()` for serializing Python data to TOML
+
 ## 2.3.1
 
 - Fixed
